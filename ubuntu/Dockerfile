@@ -6,5 +6,5 @@ WORKDIR /var/www/httpd
 
 RUN touch index.html
 
-RUN echo "Hello World!!!" > index.html
+RUN echo "Hello World from falcon!!!" > index.html
 
